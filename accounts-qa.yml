@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related Logesh git APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
-    email: "smitha@eazybank.com"
+    email: "{cipher}d7d197a9ef598a5a3a708c56eb6eec26778514db4f350f13eb89af8700c5a3152dad5a03c3746b068bba191fd6967a29"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
